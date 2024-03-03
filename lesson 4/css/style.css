@@ -1,0 +1,24 @@
+body {
+  text-decoration-color: #f000;
+  background-color: #f1f1f1;
+}
+
+h2 {
+  color: blue;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.oblique {
+  font-style: oblique;
+}
+
+.ul {
+  text-decoration: underline;
+}
